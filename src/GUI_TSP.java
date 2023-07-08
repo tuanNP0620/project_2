@@ -17,7 +17,7 @@ import g4p_controls.GTextField;
 import processing.core.PApplet;
 import processing.core.PImage;
 
-public class GUI_0_95_SA_TSP extends PApplet {
+public class GUI_TSP extends PApplet {
 	PImage robot, dirt;
 	int x, y;
 	Room start;
